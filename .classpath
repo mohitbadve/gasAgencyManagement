@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="asset"/>
+	<classpathentry kind="lib" path="/MysqlConnector/lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="/Practice/lib/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="/Practice/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="/Practice/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="/Practice/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="/Practice/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="/Practice/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
